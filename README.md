@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @binosapk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @binosapk 
+- 👀 I’m interested in economic data modelling 
+- 🌱 I’m currently learning Advanced Econometrics 
+- 💞️ I’m looking to collaborate on any projects 
+- 📫 How to reach me: binod.prasad.sapkota@nmbu.no 
 
 <!---
 binosapk/binosapk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
